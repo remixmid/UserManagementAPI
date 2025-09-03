@@ -1,0 +1,9 @@
+GET http://localhost:5216
+
+###
+
+GET http://localhost:5216/downloads
+
+###
+
+PUT http://localhost:5216/
